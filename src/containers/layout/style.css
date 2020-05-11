@@ -26,6 +26,13 @@
   float: right;
 }
 
+.usuarioLogado {
+  width: auto;
+  margin-right: -50px;
+  height: 40px;
+  float: right;
+}
+
 .footer {
   text-align: center;
   background-color: #FFF !important;
