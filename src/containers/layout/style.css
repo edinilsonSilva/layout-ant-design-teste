@@ -18,3 +18,15 @@
   float: left;
 }
 
+.avatar {
+  width: 40px;
+  height: 40px;
+  /*background: rgba(255, 255, 255, 0.2);
+   margin: 16px 28px 16px 0; */
+  float: right;
+}
+
+.footer {
+  text-align: center;
+  background-color: #FFF !important;
+}
